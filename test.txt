@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 *
 *
 *
 Day la noi dung gui conflict len github cua nhanh feature/test-pr
+=======
+*
+
+
+Day la noi dung test conflict len github cua test-pr2
+>>>>>>> 52fb90b3985419bbd305eab3e966b07bfd138f8d
